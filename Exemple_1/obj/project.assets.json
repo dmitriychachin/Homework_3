@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Android dev\\Repository\\C#\\Homework\\Homework_3\\Exemple_3\\Exemple_1.csproj",
+      "projectUniqueName": "D:\\Android dev\\Repository\\C#\\Homework\\Homework_3\\Exemple_1\\Exemple_1.csproj",
       "projectName": "Exemple_1",
-      "projectPath": "D:\\Android dev\\Repository\\C#\\Homework\\Homework_3\\Exemple_3\\Exemple_1.csproj",
+      "projectPath": "D:\\Android dev\\Repository\\C#\\Homework\\Homework_3\\Exemple_1\\Exemple_1.csproj",
       "packagesPath": "C:\\Users\\chach\\.nuget\\packages\\",
-      "outputPath": "D:\\Android dev\\Repository\\C#\\Homework\\Homework_3\\Exemple_3\\obj\\",
+      "outputPath": "D:\\Android dev\\Repository\\C#\\Homework\\Homework_3\\Exemple_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chach\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -26,10 +26,10 @@ int n = GetNumber("Ведите N:");
 
 for (int i = 1; i < n; i++)
 {
-    int sum = i * i * i;
+    double sum = Math.Pow(i , 3);
     Console.Write($"{sum},");
 }
 
-int result = n * n * n;
+double result = Math.Pow(n , 3);
 
 Console.Write($"{result}.");
